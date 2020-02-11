@@ -115,6 +115,11 @@ taxonomy > biblFull{
   display: block;
   margin-bottom: 0.5em;
 }
+
+bibl > ref{
+  font-weight: normal;
+}
+
 biblScope{
   display: inline;
 }
