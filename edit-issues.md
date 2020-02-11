@@ -61,4 +61,4 @@
 ### Ссылки
 * TEI-схема словаря (https://docs.google.com/spreadsheets/d/1EluhOVJtXkEMVyZsXZ1yH79AnZ6tTWOG3nbKMdtOXPQ/edit?usp=sharing)  
 * Онлайн-словарь [28-30 тома](http://web-corpora.net/wsgi/oldrus.wsgi/source)  
-* Словоуказатель ко всем томам [ru-eval/hist](http://ru-eval.ru/hist/xi-xvii/index.html)  
+* Словоуказатель ко всем томам [ru-eval/hist](http://ru-eval.ru/hist/xi-xvii/19s_27.html)  
