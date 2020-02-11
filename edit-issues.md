@@ -58,6 +58,7 @@
 * Options > Preferences > Author > Save -- настроить автосохранение каждые 10 минут  
 
 
-
 ### Ссылки
-* TEI-схема словаря (https://docs.google.com/spreadsheets/d/1EluhOVJtXkEMVyZsXZ1yH79AnZ6tTWOG3nbKMdtOXPQ/edit?usp=sharing)
+* TEI-схема словаря (https://docs.google.com/spreadsheets/d/1EluhOVJtXkEMVyZsXZ1yH79AnZ6tTWOG3nbKMdtOXPQ/edit?usp=sharing)  
+* Онлайн-словарь [28-30 тома](http://web-corpora.net/wsgi/oldrus.wsgi/source)  
+* Словоуказатель ко всем томам [ru-eval/hist](http://ru-eval.ru/hist/xi-xvii/index.html)  
